@@ -135,6 +135,7 @@
 
 ## Python
 
+* [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [Vintageous](https://github.com/guillermooo/Vintageous) - Vi/Vim emulation for Sublime Text 3
 * [SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
 * [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
