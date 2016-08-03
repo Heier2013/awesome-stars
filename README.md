@@ -25,6 +25,7 @@
 
 ## C
 
+* [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java, php, c, python查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
 * [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 ## C#
@@ -54,6 +55,7 @@
 
 ## Go
 
+* [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 * [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
 
 ## HTML
@@ -69,6 +71,7 @@
 
 ## JavaScript
 
+* [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - Input Mask plugin
 * [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 * [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 * [jquery-weui](https://github.com/lihongxun945/jquery-weui) - UI lib for build hybrid wechat web app
