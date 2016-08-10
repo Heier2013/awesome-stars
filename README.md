@@ -34,7 +34,6 @@
 
 ## C++
 
-* [test](https://github.com/boostorg/test) - Boost.org test module
 * [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
 
 ## CSS
@@ -72,6 +71,7 @@
 
 ## JavaScript
 
+* [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 * [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - Input Mask plugin
 * [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 * [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
@@ -91,6 +91,7 @@
 
 ## Others
 
+* [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
 * [awesome-yii2](https://github.com/forecho/awesome-yii2) - Yii2 干货集
 * [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 * [hosts](https://github.com/racaljk/hosts) - :statue_of_liberty:最新可用的google hosts文件。镜像：
@@ -139,6 +140,7 @@
 
 ## Python
 
+* [qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 * [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [Vintageous](https://github.com/guillermooo/Vintageous) - Vi/Vim emulation for Sublime Text 3
 * [SublimeGit](https://github.com/SublimeGit/SublimeGit) - Git integration for Sublime Text 2 and 3
