@@ -24,6 +24,7 @@
 
 ## C 
 
+- [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent networking engine with high performance for PHP.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java, php, c, python查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
@@ -54,6 +55,7 @@
 
 ## Go 
 
+- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
 
@@ -70,6 +72,8 @@
 
 ## JavaScript 
 
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - The developer version of CKEditor 5; the best browser-based WYSIWYG editor.
+- [jsrender](https://github.com/BorisMoore/jsrender) - A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
 - [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 - [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - Input Mask plugin
 - [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
@@ -90,6 +94,8 @@
 
 ## Others 
 
+- [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+- [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
 - [awesome-yii2](https://github.com/forecho/awesome-yii2) - Yii2 干货集
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -98,6 +104,9 @@
 
 ## PHP 
 
+- [zentaophp](https://github.com/easysoft/zentaophp) - zentaophp is a php mvc framework, light weight, extensionable.
+- [smarty](https://github.com/smarty-php/smarty) - 
+- [php-curlmulti](https://github.com/ares333/php-curlmulti) - Beyond all doubts,It is the best php curl library.
 - [AppStore](https://github.com/chekun/AppStore) - The missing plugins store for Typecho!
 - [plugins](https://github.com/typecho-fans/plugins) - typecho 插件
 - [ecshop](https://github.com/shopex/ecshop) - ECShop是一款开源免费的网上商店系统
@@ -125,7 +134,7 @@
 - [yii2-debug](https://github.com/yiisoft/yii2-debug) - Yii 2 Debug Extension.
 - [yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
 - [yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) - AdminLTE Asset Bundle for Backend Theme in Yii2 Framework
-- [WP2PCS](https://github.com/tangshuang/WP2PCS) - Web Push to Private Cloud Space 网络资源云端化解决方案
+- [WP2PCS](https://github.com/tangshuang/WP2PCS) - A wordpress plugin, backup your website data and files to baidu pcs cloud storage.
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [phpDocumentor2](https://github.com/phpDocumentor/phpDocumentor2) - Documentation Generator for PHP
@@ -139,6 +148,7 @@
 
 ## Python 
 
+- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 - [Vintageous](https://github.com/guillermooo/Vintageous) - Vi/Vim emulation for Sublime Text 3
