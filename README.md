@@ -14,6 +14,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Others](#others)
   - [PHP](#php)
@@ -70,11 +71,15 @@
 
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## Java 
+
+- [xiaov](https://github.com/b3log/xiaov) - :bride_with_veil: Yet another QQ Bot. 又一个 QQ 聊天机器人，她的名字叫做小薇~
+
 ## JavaScript 
 
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - The developer version of CKEditor 5; the best browser-based WYSIWYG editor.
 - [jsrender](https://github.com/BorisMoore/jsrender) - A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
-- [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
+- [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
 - [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - Input Mask plugin
 - [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
@@ -94,6 +99,7 @@
 
 ## Others 
 
+- [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
 - [BashOnWindows](https://github.com/Microsoft/BashOnWindows) - Issues found within and using Bash on Ubuntu on Windows
@@ -104,6 +110,7 @@
 
 ## PHP 
 
+- [baigoSSO](https://github.com/baigoStudio/baigoSSO) - 单点登录系统
 - [zentaophp](https://github.com/easysoft/zentaophp) - zentaophp is a php mvc framework, light weight, extensionable.
 - [smarty](https://github.com/smarty-php/smarty) - 
 - [php-curlmulti](https://github.com/ares333/php-curlmulti) - Beyond all doubts,It is the best php curl library.
