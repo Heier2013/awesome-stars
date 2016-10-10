@@ -40,6 +40,7 @@
 
 ## C++ 
 
+- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
 - [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
 
