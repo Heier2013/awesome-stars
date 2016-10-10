@@ -169,6 +169,9 @@
 
 ## Python 
 
+- [baidu-pcs-python-sdk](https://github.com/mozillazg/baidu-pcs-python-sdk) - 百度个人云存储（PCS）Python SDK. （推荐改用百度网盘 API： https://github.com/ly0/baidupcsapi ）
+- [baidupcsapi](https://github.com/ly0/baidupcsapi) - 百度网盘api
+- [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
 - [documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
