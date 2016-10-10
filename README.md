@@ -22,9 +22,12 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Vala](#vala)
+  - [VimL](#viml)
 
 ## C 
 
+- [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
 - [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent networking engine with high performance for PHP.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java, php, c, python查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
@@ -32,15 +35,16 @@
 
 ## C# # 
 
+- [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services!
 - [wnmp](https://github.com/wnmp/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
 
 ## C++ 
 
+- [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
 - [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
 
 ## CSS 
 
-- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [GitHub-Helper.Chrome](https://github.com/hustcc/GitHub-Helper.Chrome) - :octocat: A Chrome plugin for GitHub Helper. Get a better idea about GitHub.
 - [progit2-zh](https://github.com/progit/progit2-zh) - 
@@ -79,11 +83,15 @@
 
 ## JavaScript 
 
+- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
+- [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror²
+- [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - The developer version of CKEditor 5; the best browser-based WYSIWYG editor.
 - [jsrender](https://github.com/BorisMoore/jsrender) - A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
 - [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
-- [jquery.inputmask](https://github.com/RobinHerbots/jquery.inputmask) - Input Mask plugin
+- [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
 - [github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
+- [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [colour-schemes](https://github.com/daylerees/colour-schemes) - Colour schemes for a variety of editors created by Dayle Rees.
 - [jquery-weui](https://github.com/lihongxun945/jquery-weui) - UI lib for build hybrid wechat web app
 - [medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
@@ -91,13 +99,13 @@
 - [kindeditor](https://github.com/pjkui/kindeditor) - rich editor for yii2 framework
 - [f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 - [Plugins](https://github.com/DataTables/Plugins) - Plug-ins for DataTables
-- [Ghost](https://github.com/TryGhost/Ghost) - Just a blogging platform
+- [Ghost](https://github.com/TryGhost/Ghost) - A simple, powerful publishing platform
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com) - xiaoego.com源码，校园O2O购物平台
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性。
 - [yii2-adminlte](https://github.com/funson86/yii2-adminlte) - Yii2 Advanced Template with Adminlte theme, rbac role, user management
 - [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
-- [layer](https://github.com/sentsin/layer) - 最懂你的、跨终端的web弹层组件
+- [layer](https://github.com/sentsin/layer) - 国内最多人使用的web弹层组件
 
 ## Others 
 
@@ -112,6 +120,9 @@
 
 ## PHP 
 
+- [cmlphp](https://github.com/linhecheng/cmlphp) - php framework / php开发框架
+- [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
+- [Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
 - [baigoSSO](https://github.com/baigoStudio/baigoSSO) - 单点登录系统
 - [zentaophp](https://github.com/easysoft/zentaophp) - zentaophp is a php mvc framework, light weight, extensionable.
 - [smarty](https://github.com/smarty-php/smarty) - 
@@ -133,7 +144,7 @@
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 - [yii2-datatables](https://github.com/NullRefExcep/yii2-datatables) - Yii2 Widget for DataTables jQuery plug-in
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2 framework main development repo
-- [think](https://github.com/top-think/think) - ThinkPHP5——为API开发而设计的高性能PHP框架
+- [think](https://github.com/top-think/think) - ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
 - [phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
 - [yii2-detail-view](https://github.com/kartik-v/yii2-detail-view) - Various enhancements to the Yii 2 Detail View with ability to edit data and manage styles using BS3.
 - [yii2-widget-datatables](https://github.com/fedemotta/yii2-widget-datatables) - DataTables widget for Yii2
@@ -157,6 +168,7 @@
 
 ## Python 
 
+- [documentation](https://github.com/raspberrypi/documentation) - Official documentation for the Raspberry Pi
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [qqbot](https://github.com/pandolia/qqbot) - QQBot: A conversation robot base on Tencent's SmartQQ
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
@@ -178,6 +190,14 @@
 
 - [lnmp](https://github.com/lj2007331/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
 - [oneinstack](https://github.com/lj2007331/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
+
+## Vala 
+
+- [deepin-terminal](https://github.com/manateelazycat/deepin-terminal) - Deepin Terminal written by vala
+
+## VimL 
+
+- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's Aix-Vim Crazy dotfile ::BOOM!!!
 
 
 ## License
