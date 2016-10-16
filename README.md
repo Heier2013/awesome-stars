@@ -27,6 +27,7 @@
 
 ## C 
 
+- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
 - [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent networking engine with high performance for PHP.
@@ -69,6 +70,7 @@
 
 ## HTML 
 
+- [phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
 - [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
 - [datatables-cn](https://github.com/ssy341/datatables-cn) - Datatables—— jquery 插件中文网
 - [world-location](https://github.com/daixianceng/world-location) - 全球地区数据表，中文版
@@ -84,8 +86,9 @@
 
 ## JavaScript 
 
+- [layui](https://github.com/sentsin/layui) - 经典模块化前端框架
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
-- [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror²
+- [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - The developer version of CKEditor 5; the best browser-based WYSIWYG editor.
 - [jsrender](https://github.com/BorisMoore/jsrender) - A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
