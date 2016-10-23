@@ -27,6 +27,9 @@
 
 ## C 
 
+- [redis](https://github.com/MSOpenTech/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
+- [wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at https://code.wireshark.org/review/ .
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -41,12 +44,14 @@
 
 ## C++ 
 
+- [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
 - [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
 
 ## CSS 
 
+- [cncounter](https://github.com/cncounter/cncounter) - 天朝计数器
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [GitHub-Helper.Chrome](https://github.com/hustcc/GitHub-Helper.Chrome) - :octocat: A Chrome plugin for GitHub Helper. Get a better idea about GitHub.
 - [progit2-zh](https://github.com/progit/progit2-zh) - 
@@ -63,6 +68,7 @@
 
 ## Go 
 
+- [dog-tunnel](https://github.com/vzex/dog-tunnel) - p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp)
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
@@ -86,7 +92,8 @@
 
 ## JavaScript 
 
-- [layui](https://github.com/sentsin/layui) - 经典模块化前端框架
+- [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
+- [layui](https://github.com/sentsin/layui) - 经典模块化前端UI框架
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
@@ -113,6 +120,7 @@
 
 ## Others 
 
+- [fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [awesome](https://github.com/sindresorhus/awesome) - :sunglasses: Curated list of awesome lists
