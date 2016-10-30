@@ -44,6 +44,7 @@
 
 ## C++ 
 
+- [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognition Toolkit (CNTK)
 - [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
@@ -92,6 +93,8 @@
 
 ## JavaScript 
 
+- [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+- [Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai) - Syntax color theme for Intellij inspired by Sublime Text's Monokai Theme
 - [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 - [layui](https://github.com/sentsin/layui) - 经典模块化前端UI框架
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
