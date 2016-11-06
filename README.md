@@ -34,7 +34,7 @@
 - [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
 - [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent networking engine with high performance for PHP.
-- [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java, php, c, python查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
+- [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
 ## C# # 
@@ -44,7 +44,7 @@
 
 ## C++ 
 
-- [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognition Toolkit (CNTK)
+- [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK)
 - [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
@@ -53,7 +53,6 @@
 ## CSS 
 
 - [cncounter](https://github.com/cncounter/cncounter) - 天朝计数器
-- [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [GitHub-Helper.Chrome](https://github.com/hustcc/GitHub-Helper.Chrome) - :octocat: A Chrome plugin for GitHub Helper. Get a better idea about GitHub.
 - [progit2-zh](https://github.com/progit/progit2-zh) - 
 
@@ -79,6 +78,7 @@
 
 - [phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
 - [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
+- [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [datatables-cn](https://github.com/ssy341/datatables-cn) - Datatables—— jquery 插件中文网
 - [world-location](https://github.com/daixianceng/world-location) - 全球地区数据表，中文版
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
@@ -123,6 +123,8 @@
 
 ## Others 
 
+- [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
+- [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
 - [fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [awesome-python-cn](https://github.com/jobbole/awesome-python-cn) - Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
 - [awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
@@ -135,6 +137,7 @@
 
 ## PHP 
 
+- [thinksns](https://github.com/medz/thinksns) - ThinkSNS开源社交系统 A extensable social networing system.
 - [cmlphp](https://github.com/linhecheng/cmlphp) - php framework / php开发框架
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
