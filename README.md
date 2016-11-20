@@ -44,10 +44,11 @@
 
 ## C++ 
 
+- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK)
 - [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
-- [Paddle](https://github.com/baidu/Paddle) - PArallel Distributed Deep LEarning
+- [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
 - [czys](https://github.com/kxtry/czys) - 基于QML，面向移动端的音乐播放器
 
 ## CSS 
@@ -93,6 +94,9 @@
 
 ## JavaScript 
 
+- [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+- [yaaw](https://github.com/binux/yaaw) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt
+- [yaaw](https://github.com/wzhy90/yaaw) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai) - Syntax color theme for Intellij inspired by Sublime Text's Monokai Theme
 - [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
@@ -155,14 +159,14 @@
 - [composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [Codeception](https://github.com/Codeception/Codeception) - Full-stack testing PHP framework
 - [phinx](https://github.com/robmorgan/phinx) - PHP Database Migrations for Everyone
-- [pinyin](https://github.com/overtrue/pinyin) - 基于词库的中文转拼音优质解决方案
+- [pinyin](https://github.com/overtrue/pinyin) - :cn: 基于词库的中文转拼音优质解决方案
 - [yii2-user](https://github.com/dektrium/yii2-user) - Flexible user registration and authentication module for Yii2
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
 - [thinkphp-extend](https://github.com/top-think/thinkphp-extend) - 
 - [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM, PHP7.
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 - [yii2-datatables](https://github.com/NullRefExcep/yii2-datatables) - Yii2 Widget for DataTables jQuery plug-in
-- [yii2](https://github.com/yiisoft/yii2) - Yii 2 framework main development repo
+- [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 - [think](https://github.com/top-think/think) - ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
 - [phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
 - [yii2-detail-view](https://github.com/kartik-v/yii2-detail-view) - Various enhancements to the Yii 2 Detail View with ability to edit data and manage styles using BS3.
@@ -219,7 +223,7 @@
 
 ## VimL 
 
-- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's Aix-Vim Crazy dotfile ::BOOM!!!
+- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's vim dotfile
 
 
 ## License
