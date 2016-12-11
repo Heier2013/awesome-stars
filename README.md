@@ -40,6 +40,7 @@
 
 ## C# # 
 
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video.
 - [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups on cloud storage services!
 - [wnmp](https://github.com/wnmp/wnmp) - An easy Nginx, MariaDB and PHP environment for Windows.
 
@@ -54,7 +55,7 @@
 
 ## CSS 
 
-- [cncounter](https://github.com/cncounter/cncounter) - 天朝计数器
+- [cncounter](https://github.com/cncounter/cncounter) - :hotsprings: 天朝计数器
 - [GitHub-Helper.Chrome](https://github.com/hustcc/GitHub-Helper.Chrome) - :octocat: A Chrome plugin for GitHub Helper. Get a better idea about GitHub.
 - [progit2-zh](https://github.com/progit/progit2-zh) - 
 
@@ -95,6 +96,7 @@
 
 ## JavaScript 
 
+- [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [yaaw](https://github.com/binux/yaaw) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt
 - [yaaw](https://github.com/wzhy90/yaaw) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt
@@ -147,6 +149,9 @@
 
 ## PHP 
 
+- [PHPWord_CloneRow](https://github.com/Arisse/PHPWord_CloneRow) - Extension for PHPWord. New method for clone merged rows in tables
+- [doctrine2](https://github.com/doctrine/doctrine2) - Doctrine 2 Object Relational Mapper (ORM)
+- [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
 - [thinksns](https://github.com/medz/thinksns) - ThinkSNS开源社交系统 A extensable social networing system.
 - [cmlphp](https://github.com/linhecheng/cmlphp) - php framework / php开发框架
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
@@ -168,7 +173,7 @@
 - [yii2-user](https://github.com/dektrium/yii2-user) - Flexible user registration and authentication module for Yii2
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
 - [thinkphp-extend](https://github.com/top-think/thinkphp-extend) - 
-- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM, PHP7.
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM, ReactPHP.
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 - [yii2-datatables](https://github.com/NullRefExcep/yii2-datatables) - Yii2 Widget for DataTables jQuery plug-in
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
@@ -196,6 +201,7 @@
 
 ## Python 
 
+- [Leanote4MD](https://github.com/goodbest/Leanote4MD) - Leanote导出Markdown格式工具
 - [baidu-pcs-python-sdk](https://github.com/mozillazg/baidu-pcs-python-sdk) - 百度个人云存储（PCS）Python SDK. （推荐改用百度网盘 API： https://github.com/ly0/baidupcsapi ）
 - [baidupcsapi](https://github.com/ly0/baidupcsapi) - 百度网盘api
 - [bypy](https://github.com/houtianze/bypy) - Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端
