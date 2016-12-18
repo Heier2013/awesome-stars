@@ -28,6 +28,7 @@
 
 ## C 
 
+- [openresty](https://github.com/openresty/openresty) - Turning Nginx into a Full-Fledged Scriptable Web Platform
 - [redis](https://github.com/MSOpenTech/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at https://code.wireshark.org/review/ .
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
@@ -79,6 +80,7 @@
 
 ## HTML 
 
+- [tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
 - [phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
 - [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
@@ -149,6 +151,7 @@
 
 ## PHP 
 
+- [symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [PHPWord_CloneRow](https://github.com/Arisse/PHPWord_CloneRow) - Extension for PHPWord. New method for clone merged rows in tables
 - [doctrine2](https://github.com/doctrine/doctrine2) - Doctrine 2 Object Relational Mapper (ORM)
 - [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
