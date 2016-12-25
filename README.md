@@ -86,7 +86,7 @@
 - [weui](https://github.com/weui/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 - [datatables-cn](https://github.com/ssy341/datatables-cn) - Datatables—— jquery 插件中文网
 - [world-location](https://github.com/daixianceng/world-location) - 全球地区数据表，中文版
-- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
+- [AdminLTE](https://github.com/almasaeed2010/AdminLTE) - AdminLTE - Free Premium Admin control Panel Theme Based On Bootstrap 3.x
 
 ## Haskell 
 
@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
 - [yaaw](https://github.com/binux/yaaw) - Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt
@@ -151,6 +152,8 @@
 
 ## PHP 
 
+- [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
+- [htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
 - [symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [PHPWord_CloneRow](https://github.com/Arisse/PHPWord_CloneRow) - Extension for PHPWord. New method for clone merged rows in tables
 - [doctrine2](https://github.com/doctrine/doctrine2) - Doctrine 2 Object Relational Mapper (ORM)
