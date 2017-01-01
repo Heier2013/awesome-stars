@@ -35,7 +35,7 @@
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
-- [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent networking engine with high performance for PHP.
+- [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 
@@ -137,6 +137,7 @@
 
 ## Others 
 
+- [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste wiki & feedback
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
@@ -152,6 +153,7 @@
 
 ## PHP 
 
+- [lygit](https://github.com/ijry/lygit) - 基于ThinkPHP的git版本控制系统WEB端实现，目前仅支持http协议，不支持SSH协议。
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
 - [symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
