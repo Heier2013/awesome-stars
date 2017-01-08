@@ -153,6 +153,7 @@
 
 ## PHP 
 
+- [hprose-php](https://github.com/hprose/hprose-php) - Hprose for PHP
 - [lygit](https://github.com/ijry/lygit) - 基于ThinkPHP的git版本控制系统WEB端实现，目前仅支持http协议，不支持SSH协议。
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
@@ -160,7 +161,7 @@
 - [PHPWord_CloneRow](https://github.com/Arisse/PHPWord_CloneRow) - Extension for PHPWord. New method for clone merged rows in tables
 - [doctrine2](https://github.com/doctrine/doctrine2) - Doctrine 2 Object Relational Mapper (ORM)
 - [PHPWord](https://github.com/PHPOffice/PHPWord) - A pure PHP library for reading and writing word processing documents
-- [thinksns](https://github.com/medz/thinksns) - ThinkSNS开源社交系统 A extensable social networing system.
+- [thinksns](https://github.com/medz/thinksns) - ThinkSNS开源社交系统
 - [cmlphp](https://github.com/linhecheng/cmlphp) - php framework / php开发框架
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - MeepoPS是Meepo PHP Socket的缩写，旨在提供稳定的Socket服务。可以轻松构建在线实时聊天、即时游戏、视频流媒体播放等。
 - [Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
