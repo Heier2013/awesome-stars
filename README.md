@@ -98,6 +98,7 @@
 
 ## JavaScript 
 
+- [newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
@@ -153,6 +154,7 @@
 
 ## PHP 
 
+- [piwik](https://github.com/piwik/piwik) - Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [hprose-php](https://github.com/hprose/hprose-php) - Hprose for PHP
 - [lygit](https://github.com/ijry/lygit) - 基于ThinkPHP的git版本控制系统WEB端实现，目前仅支持http协议，不支持SSH协议。
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
@@ -170,7 +172,7 @@
 - [smarty](https://github.com/smarty-php/smarty) - 
 - [php-curlmulti](https://github.com/ares333/php-curlmulti) - Beyond all doubts,It is the best php curl library.
 - [AppStore](https://github.com/chekun/AppStore) - The missing plugins store for Typecho!
-- [plugins](https://github.com/typecho-fans/plugins) - typecho 插件
+- [plugins](https://github.com/typecho-fans/plugins) - Typecho开源插件集群
 - [ecshop](https://github.com/shopex/ecshop) - ECShop是一款开源免费的网上商店系统
 - [yii2-widget-sidenav](https://github.com/kartik-v/yii2-widget-sidenav) - An enhanced side navigation menu styled for bootstrap (sub repo split from yii2-widgets)
 - [monolog-mysql](https://github.com/waza-ari/monolog-mysql) - MySQL Handler for Monolog, which allows to store log messages to a MySQL Table
