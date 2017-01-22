@@ -66,6 +66,7 @@
 
 ## CoffeeScript 
 
+- [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - :mahjong: Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 - [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
 - [atom](https://github.com/atom/atom) - The hackable text editor
 - [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) - Atom package - Activate POWER MODE to write your code in style.
@@ -212,6 +213,7 @@
 
 ## Python 
 
+- [xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese) - Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.
 - [Leanote4MD](https://github.com/goodbest/Leanote4MD) - Leanote导出Markdown格式工具
 - [baidu-pcs-python-sdk](https://github.com/mozillazg/baidu-pcs-python-sdk) - 百度个人云存储（PCS）Python SDK. （推荐改用百度网盘 API： https://github.com/ly0/baidupcsapi ）
 - [baidupcsapi](https://github.com/ly0/baidupcsapi) - 百度网盘api
