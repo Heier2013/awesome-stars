@@ -112,7 +112,7 @@
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-- [ckeditor5](https://github.com/ckeditor/ckeditor5) - The developer version of CKEditor 5; the best browser-based WYSIWYG editor.
+- [ckeditor5](https://github.com/ckeditor/ckeditor5) - Development repository of CKEditor 5; the best browser-based rich text editor.
 - [jsrender](https://github.com/BorisMoore/jsrender) - A lightweight, powerful and highly extensible templating engine. In the browser or on Node.js, with or without jQuery.
 - [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor
 - [Inputmask](https://github.com/RobinHerbots/Inputmask) - Input Mask plugin
