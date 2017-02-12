@@ -48,7 +48,7 @@
 ## C++ 
 
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK)
+- [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
 - [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more
 - [Paddle](https://github.com/PaddlePaddle/Paddle) - PArallel Distributed Deep LEarning
@@ -68,7 +68,7 @@
 
 - [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - :mahjong: Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 - [atom-simplified-chinese-menu](https://github.com/chinakids/atom-simplified-chinese-menu) - Atom 的简体中文汉化扩展,目前最全的汉化包。包含菜单汉化、右键菜单汉化以及设置汉化
-- [atom](https://github.com/atom/atom) - The hackable text editor
+- [atom](https://github.com/atom/atom) - The hackable text editor :atom:
 - [activate-power-mode](https://github.com/JoelBesada/activate-power-mode) - Atom package - Activate POWER MODE to write your code in style.
 
 ## Go 
@@ -185,7 +185,7 @@
 - [yii2-user](https://github.com/dektrium/yii2-user) - Flexible user registration and authentication module for Yii2
 - [Captcha](https://github.com/Gregwar/Captcha) - PHP Captcha library
 - [thinkphp-extend](https://github.com/top-think/thinkphp-extend) - 
-- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket and other custom protocols. Supports libevent, HHVM, ReactPHP.
+- [Workerman](https://github.com/walkor/Workerman) - An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket, SSL and other custom protocols. Supports libevent, HHVM, ReactPHP.
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 - [yii2-datatables](https://github.com/NullRefExcep/yii2-datatables) - Yii2 Widget for DataTables jQuery plug-in
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
