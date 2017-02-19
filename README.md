@@ -77,7 +77,7 @@
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
-- [gogs](https://github.com/gogits/gogs) - Gogs (Go Git Service) is a painless self-hosted Git service.
+- [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 
 ## HTML 
 
@@ -139,7 +139,7 @@
 
 ## Others 
 
-- [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste wiki & feedback
+- [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste feedback & wiki
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
