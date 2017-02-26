@@ -24,7 +24,7 @@
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [Vala](#vala)
-  - [VimL](#viml)
+  - [Vim script](#vim script)
 
 ## C 
 
@@ -108,7 +108,7 @@
 - [clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai) - Syntax color theme for Intellij inspired by Sublime Text's Monokai Theme
 - [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
-- [layui](https://github.com/sentsin/layui) - 经典模块化前端UI框架
+- [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端UI框架，遵循原生HTML/CSS/JS的书写形式，极低门槛，拿来即用。
 - [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
@@ -131,7 +131,7 @@
 - [yii2-adminlte](https://github.com/funson86/yii2-adminlte) - Yii2 Advanced Template with Adminlte theme, rbac role, user management
 - [RAP](https://github.com/thx/RAP) - Web API management, free and open sourced, mock data generator, auto test, made by Alibaba, using by 1000+ corporations! Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越 :3
 - [DataTables](https://github.com/DataTables/DataTables) - Tables plug-in for jQuery
-- [layer](https://github.com/sentsin/layer) - 国内最多人使用的web弹层组件
+- [layer](https://github.com/sentsin/layer) - 丰富多样的Web弹出层组件，可轻松实现Alert/Confirm/Prompt/普通提示/页面区块/iframe/tips等等几乎所有的弹出交互。目前已成为最多人使用的弹层解决方案
 
 ## Lua 
 
@@ -199,7 +199,7 @@
 - [yii2-debug](https://github.com/yiisoft/yii2-debug) - Yii 2 Debug Extension.
 - [yii2-admin](https://github.com/mdmsoft/yii2-admin) - Auth manager for Yii2 (RBAC Manager)
 - [yii2-adminlte-asset](https://github.com/dmstr/yii2-adminlte-asset) - AdminLTE Asset Bundle for Backend Theme in Yii2 Framework
-- [WP2PCS](https://github.com/tangshuang/WP2PCS) - A wordpress plugin, backup your website data and files to baidu pcs cloud storage.
+- [wp2pcs](https://github.com/tangshuang/wp2pcs) - A wordpress plugin, backup your website data and files to baidu pcs cloud storage.
 - [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [phpDocumentor2](https://github.com/phpDocumentor/phpDocumentor2) - Documentation Generator for PHP
@@ -245,7 +245,7 @@
 
 - [deepin-terminal](https://github.com/manateelazycat/deepin-terminal) - Deepin Terminal written by vala
 
-## VimL 
+## Vim script 
 
 - [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's vim dotfile
 
