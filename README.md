@@ -155,6 +155,8 @@
 
 ## PHP 
 
+- [pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
+- [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [piwik](https://github.com/piwik/piwik) - Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
 - [hprose-php](https://github.com/hprose/hprose-php) - Hprose for PHP
 - [lygit](https://github.com/ijry/lygit) - 基于ThinkPHP的git版本控制系统WEB端实现，目前仅支持http协议，不支持SSH协议。
@@ -247,7 +249,7 @@
 
 ## Vim script 
 
-- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's vim dotfile
+- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's dotfile
 
 
 ## License
