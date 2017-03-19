@@ -139,6 +139,7 @@
 
 ## Others 
 
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
 - [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste feedback & wiki
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
@@ -249,7 +250,7 @@
 
 ## Vim script 
 
-- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - YiJun's dotfile
+- [Aix-Vim](https://github.com/DemonCloud/Aix-Vim) - dotfile
 
 
 ## License
