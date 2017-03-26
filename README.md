@@ -47,6 +47,7 @@
 
 ## C++ 
 
+- [LeetCode](https://github.com/pezy/LeetCode) - :pencil2: LeetCode solutions in C++ 11
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [CNTK](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 - [RedisStudio](https://github.com/cinience/RedisStudio) - RedisStudio Redis GUI client(tool) for windows
@@ -109,7 +110,7 @@
 - [Intellij-Colors-Sublime-Monokai](https://github.com/y3sh/Intellij-Colors-Sublime-Monokai) - Syntax color theme for Intellij inspired by Sublime Text's Monokai Theme
 - [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端UI框架，遵循原生HTML/CSS/JS的书写形式，极低门槛，拿来即用。
-- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~1.7kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
+- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(~2.0kb) library used to format date with `*** time ago` statement. eg: '3 hours ago'. No dependency & localization & tiny.
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [pickadate.js](https://github.com/amsul/pickadate.js) - (Looking for Project Maintainers) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 - [ckeditor5](https://github.com/ckeditor/ckeditor5) - Development repository of CKEditor 5; the best browser-based rich text editor.
@@ -159,7 +160,7 @@
 - [pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
 - [piwik](https://github.com/piwik/piwik) - Liberating Web Analytics. Star us on Github? +1. Piwik is the leading open alternative to Google Analytics that gives you full control over your data. Piwik lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
-- [hprose-php](https://github.com/hprose/hprose-php) - Hprose for PHP
+- [hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 2.0 for PHP
 - [lygit](https://github.com/ijry/lygit) - 基于ThinkPHP的git版本控制系统WEB端实现，目前仅支持http协议，不支持SSH协议。
 - [monolog](https://github.com/Seldaek/monolog) - Sends your logs to files, sockets, inboxes, databases and various web services
 - [htmlpurifier](https://github.com/ezyang/htmlpurifier) - Standards compliant HTML filter written in PHP
@@ -241,6 +242,7 @@
 
 ## Shell 
 
+- [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [lnmp](https://github.com/lj2007331/lnmp) - LEMP stack/LAMP stack/LNMP stack  installation scripts for CentOS/Redhat Debian and Ubuntu
 - [oneinstack](https://github.com/lj2007331/oneinstack) - OneinStack - A PHP/JAVA Deployment Tool
 
