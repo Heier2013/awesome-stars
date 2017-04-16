@@ -34,7 +34,7 @@
 - [wireshark](https://github.com/wireshark/wireshark) - Read-only mirror of Wireshark's Git repository. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at https://code.wireshark.org/review/ .
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple resource manager, support tag search and thumbnail preview.
+- [LC-Finder](https://github.com/lc-soft/LC-Finder) - A simple pciture resource manager, support tag search and thumbnail preview.
 - [memcached](https://github.com/memcached/memcached) - memcached development tree
 - [swoole-src](https://github.com/swoole/swoole-src) - Event-driven asynchronous & concurrent & coroutine networking engine with high performance for PHP.
 - [ip2region](https://github.com/lionsoul2014/ip2region) - 准确率99.9%的ip地址定位库，0.0x毫秒级查询，数据库文件大小只有1.5M，提供了java,php,c,python,nodejs,golang查询绑定和Binary,B树,内存三种查询算法，妈妈再也不用担心我的ip地址定位！
@@ -101,6 +101,7 @@
 
 ## JavaScript 
 
+- [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
 - [CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -141,6 +142,7 @@
 
 ## Others 
 
+- [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
 - [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste feedback & wiki
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
@@ -158,6 +160,7 @@
 
 ## PHP 
 
+- [ss-panel](https://github.com/orvice/ss-panel) - Let's talk about cat
 - [VueThink](https://github.com/honraytech/VueThink) - VueThink是一套基于Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ ThinkPHP5的前后端分离框架。
 - [pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
 - [kanboard](https://github.com/kanboard/kanboard) - Kanban project management software
