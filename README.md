@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -26,6 +27,10 @@
   - [Vala](#vala)
   - [Vim script](#vim script)
   - [Vue](#vue)
+
+## AutoHotkey 
+
+- [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 
 ## C 
 
@@ -78,7 +83,7 @@
 - [dog-tunnel](https://github.com/vzex/dog-tunnel) - p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp)
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [docker](https://github.com/docker/docker) - Docker - the open-source application container engine
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gogs](https://github.com/gogits/gogs) - Gogs is a painless self-hosted Git service.
 
 ## HTML 
@@ -101,6 +106,7 @@
 
 ## JavaScript 
 
+- [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool
 - [wemark](https://github.com/TooBug/wemark) - 微信小程序Markdown渲染库
@@ -160,6 +166,7 @@
 
 ## PHP 
 
+- [shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - Shadowsocks 翻墙管理系统
 - [ss-panel](https://github.com/orvice/ss-panel) - Let's talk about cat
 - [VueThink](https://github.com/honraytech/VueThink) - VueThink是一套基于Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ ThinkPHP5的前后端分离框架。
 - [pdfparser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file.
