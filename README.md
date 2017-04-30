@@ -250,7 +250,7 @@
 ## Ruby 
 
 - [paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord
-- [ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook) - 不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Countly、Jenkins、Ghost、Ajenti、Seafile 等常用服务。
+- [ios-dev-playbook](https://github.com/lexrus/ios-dev-playbook) - 不会运维的 iOS 开发不是好设计师。这个 Ansible Playbook 能快速配置 iOS 开发需要的服务，安装如 Gogs、GitLab、Jenkins、Ghost、Ajenti 等常用服务。
 
 ## Shell 
 
