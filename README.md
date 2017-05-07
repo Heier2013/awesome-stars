@@ -148,6 +148,8 @@
 
 ## Others 
 
+- [http](https://github.com/woai30231/http) - 我自己提炼的关于《HTTP权威指南》每章的知识点总结！
+- [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
 - [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste feedback & wiki
@@ -166,6 +168,7 @@
 
 ## PHP 
 
+- [easy-tips](https://github.com/TIGERB/easy-tips) - a little tips in my code career
 - [shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - Shadowsocks 翻墙管理系统
 - [ss-panel](https://github.com/orvice/ss-panel) - Let's talk about cat
 - [VueThink](https://github.com/honraytech/VueThink) - VueThink是一套基于Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ ThinkPHP5的前后端分离框架。
