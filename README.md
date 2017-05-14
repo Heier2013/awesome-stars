@@ -63,6 +63,7 @@
 
 ## CSS 
 
+- [php-the-right-way](https://github.com/codeguy/php-the-right-way) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 - [cncounter](https://github.com/cncounter/cncounter) - :hotsprings: 天朝计数器
 - [GitHub-Helper.Chrome](https://github.com/hustcc/GitHub-Helper.Chrome) - :octocat: A Chrome plugin for GitHub Helper. Get a better idea about GitHub.
 - [progit2-zh](https://github.com/progit/progit2-zh) - 
@@ -106,6 +107,7 @@
 
 ## JavaScript 
 
+- [modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 - [newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool
@@ -168,6 +170,7 @@
 
 ## PHP 
 
+- [Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
 - [easy-tips](https://github.com/TIGERB/easy-tips) - a little tips in my code career
 - [shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - Shadowsocks 翻墙管理系统
 - [ss-panel](https://github.com/orvice/ss-panel) - Let's talk about cat
