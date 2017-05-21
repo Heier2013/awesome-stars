@@ -154,7 +154,7 @@
 - [ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [git-recipes](https://github.com/geeeeeeeeek/git-recipes) - :octocat: Git recipes in Chinese. 高质量的Git中文教程.
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2017
-- [Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback) - Snipaste feedback & wiki
+- [feedback](https://github.com/Snipaste/feedback) - Feedback & wiki for Snipaste
 - [china_area_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 - [forum](https://github.com/getlantern/forum) - 蓝灯(Lantern)官方论坛
 - [growing-up](https://github.com/mylxsw/growing-up) - 程序猿成长计划
@@ -171,7 +171,7 @@
 ## PHP 
 
 - [Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
-- [easy-tips](https://github.com/TIGERB/easy-tips) - a little tips in my code career
+- [easy-tips](https://github.com/TIGERB/easy-tips) - A little tips in my code career
 - [shadowsocks-manage-system](https://github.com/ZhuFaner/shadowsocks-manage-system) - Shadowsocks 翻墙管理系统
 - [ss-panel](https://github.com/orvice/ss-panel) - Let's talk about cat
 - [VueThink](https://github.com/honraytech/VueThink) - VueThink是一套基于Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ ThinkPHP5的前后端分离框架。
