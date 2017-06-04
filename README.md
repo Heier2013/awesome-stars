@@ -89,6 +89,7 @@
 
 ## HTML 
 
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This repo is a collection of awesome Mac applications and tools for developers and designers.
 - [tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
 - [phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
 - [bootstrap-toggle](https://github.com/minhur/bootstrap-toggle) - Bootstrap Toggle is a highly flexible Bootstrap plugin that converts checkboxes into toggles
@@ -107,6 +108,7 @@
 
 ## JavaScript 
 
+- [notadd](https://github.com/notadd/notadd) - 基于 Laravel 的下一代 PHP 开发框架
 - [modern-php](https://github.com/codeguy/modern-php) - Companion code repository for Modern PHP by Josh Lockhart
 - [shadowsocks-manager](https://github.com/shadowsocks/shadowsocks-manager) - A shadowsocks manager tool for multi user and traffic control.
 - [electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
@@ -211,7 +213,7 @@
 - [thinkphp](https://github.com/top-think/thinkphp) - ThinkPHP3.2 ——基于PHP5的简单快速的面向对象的PHP框架
 - [yii2-datatables](https://github.com/NullRefExcep/yii2-datatables) - Yii2 Widget for DataTables jQuery plug-in
 - [yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
-- [think](https://github.com/top-think/think) - ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
+- [think](https://github.com/top-think/think) - PHP Framework ThinkPHP5——为API开发而设计的高性能PHP框架（基于PHP5.4+）
 - [phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
 - [yii2-detail-view](https://github.com/kartik-v/yii2-detail-view) - Various enhancements to the Yii 2 Detail View with ability to edit data and manage styles using BS3.
 - [yii2-widget-datatables](https://github.com/fedemotta/yii2-widget-datatables) - DataTables widget for Yii2
