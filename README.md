@@ -111,6 +111,7 @@
 
 ## Go 
 
+- [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [trdsql](https://github.com/noborus/trdsql) - A tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 - [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
