@@ -129,6 +129,7 @@
 
 ## HTML 
 
+- [Learning-Markdown](https://github.com/LearnShare/Learning-Markdown) - Markdown guidance and reference(Markdown 入门参考)
 - [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [phpdoc-zh-docset](https://github.com/toyjack/phpdoc-zh-docset) - PHP手册中文版－支持Dash使用的DOCSET
 - [tipi](https://github.com/reeze/tipi) - Thinking In PHP Internals, An open book on PHP Internals
@@ -258,6 +259,7 @@
 
 ## PHP 
 
+- [getallheaders](https://github.com/ralouphie/getallheaders) - PHP getallheaders polyfill
 - [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) - 基于 ThinkPHP 5.1 基础开发平台（登录账号密码都是 admin ）
 - [logistics](https://github.com/finecho/logistics) - Logistics query extension package
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - GitHub Workflow for Alfred 3
